@@ -1,3 +1,5 @@
+- [ ] Recordings of the Sessions can be found [here](https://sites.google.com/cohere.com/c4ai-community/community-programs/birds)
+
 # **Week 1: Introduction to Concurrency**
 
 Modules:
