@@ -46,7 +46,7 @@ Modules:
 - Thread Locks
 - Queues
 
-#### Multithreading:
+#### Multithreading
 
 Multithreading in OS: <https://www.youtube.com/watch?v=0KAGazeMZ2o&ab_channel=TechandBeyondWithMoss>
 
@@ -55,7 +55,7 @@ Threading in Python:
 
 Python and GIL: <https://realpython.com/python-gil/>
 
-#### Thread Locks:
+#### Thread Locks
 
 Thread Lock in Python: <https://www.pythontutorial.net/python-concurrency/python-threading-lock/>
 
@@ -63,7 +63,7 @@ Lock in Python: <https://docs.python.org/3/library/threading.html#lock-objects>
 
 MIT: <https://web.mit.edu/6.005/www/fa15/classes/23-locks/>
 
-#### Multiprocessing:
+#### Multiprocessing
 
 Multitasking vs Multithreading vs Multiprocessing:
 
@@ -73,7 +73,7 @@ Multiprocessing in Python: <https://www.datacamp.com/tutorial/python-multiproces
 
 Longer Read: <https://www.analyticsvidhya.com/blog/2021/04/a-beginners-guide-to-multi-processing-in-python/>
 
-#### Queues:
+#### Queues
 
 Process Queues: <https://www.codingninjas.com/studio/library/process-queues>
 
@@ -81,7 +81,7 @@ PCBs and queueing: <https://www.prepbytes.com/blog/operating-system/process-sche
 
 PQ in Python: <https://superfastpython.com/multiprocessing-queue-in-python/>
 
-#### Semaphores:
+#### Semaphores
 
 Mutex and Semaphore[OPTIONAL]: <https://www.beningo.com/everything-you-need-to-know-about-semaphores-and-mutexes/>
 
@@ -111,7 +111,7 @@ Modern CPU Architecture 2: <https://mitterandekole.medium.com/modern-cpu-archite
 
 CPU Architecture: <https://computersciencewiki.org/index.php/Architecture_of_the_central_processing_unit_(CPU)>
 
-#### Intro to GPU Architecture:
+#### Intro to GPU Architecture
 
 GPUs Explained: <https://www.youtube.com/watch?v=LfdK-v0SbGI&ab_channel=IBMTechnology>
 
@@ -121,7 +121,7 @@ Exploring GPU Architecture: <https://core.vmware.com/resource/exploring-gpu-arch
 
 Read/Write Operations in GPU: <https://disorder.notion.site/Read-Write-Operations-in-GPU-eebde49570494ddfa254da9f57463c7b>
 
-#### Why does NN need GPU?:
+#### Why does NN need GPU?
 
 Why use GPU with Neural Networks?: <https://www.youtube.com/watch?v=GRRMi7UfZHg&ab_channel=CodeEmporium>
 
