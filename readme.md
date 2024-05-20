@@ -1,5 +1,7 @@
 - [ ] Recordings of the Sessions can be found [here](https://sites.google.com/cohere.com/c4ai-community/community-programs/birds)
 
+- [ ] This repo contains study materials, assignments of BIRDS cohort for CUDA programming starting from very beggining 
+
 # **Week 1: Introduction to Concurrency**
 
 Modules:
